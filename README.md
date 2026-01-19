@@ -2,7 +2,7 @@
 
 **Helping Hand** is a comprehensive web application designed to streamline the process of charitable donations. It connects donors with a transparent platform where they can contribute to causes and track their impact, while providing powerful tools for administrators to manage and analyze donation data.
 
-## 🚀 Project Overview
+##  Project Overview
 
 The platform is built using the **MERN Stack** (MongoDB, Express.js, React, Node.js) and features a Role-Based Access Control (RBAC) system to ensure secure and appropriate access for different user types.
 
@@ -11,34 +11,34 @@ The platform is built using the **MERN Stack** (MongoDB, Express.js, React, Node
 - **Efficiency**: Admins have access to visual analytics and reporting tools.
 - **Security**: Robust authentication and role management (Donor, Admin, Superadmin).
 
-## ✨ Features
+##  Features
 
-### 👤 For Donors
+###  For Donors
 - **Easy Registration**: Simple sign-up process to get started instantly.
 - **Secure Donations**: Simulate donation payments (Sandbox environment).
 - **History Tracking**: View a personal log of all past contributions with status updates.
 
-### 🛠️ For Admins
+###  For Admins
 - **Analytics Dashboard**: Visual charts showing donation trends and totals (in ₹).
 - **Recent Activity**: Real-time list of the latest donations.
 - **Data Export**: One-click **CSV Download** for offline reporting.
 - **Contribution**: Admins can also participate by making donations.
 - *Note: Admin accounts require Superadmin approval before becoming active.*
 
-### 🛡️ For Superadmins
+###  For Superadmins
 - **Master Control**: Oversee the entire platform.
 - **Admin Management**: Approve or Reject new Admin registration requests.
 - **Global Insights**: View analytics for all donations system-wide.
 - **Data Export**: Full access to download donation records.
 
-## 💻 Tech Stack
+##  Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS, Lucide React (Icons), Recharts (Data Visualization).
 - **Backend**: Node.js, Express.js.
 - **Database**: MongoDB.
 - **Authentication**: JWT (JSON Web Tokens).
 
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
 Follow these steps to run the project locally:
 
@@ -89,7 +89,7 @@ npm run dev
 ```
 *Client runs on `http://localhost:5173`*
 
-## 🔑 Login Credentials
+##  Login Credentials
 
 | Role | Email | Password | Notes |
 | :--- | :--- | :--- | :--- |
